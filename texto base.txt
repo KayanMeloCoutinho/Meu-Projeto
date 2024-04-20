@@ -1,0 +1,59 @@
+ Mundo do Futebol {h1}
+
+ Tudo que você quer saber do futebol é aqui {p}
+
+ Home
+ Notícias
+
+ UEFA Champions League {h1}
+
+ A Champions League sempre reserva surpresas,
+ e nesta temporada não é diferente. Algumas equipes consideradas azarões conseguiram surpreender,
+ enquanto outras favoritas enfrentaram desafios inesperados.
+ As Semi-Finais ficou assim:
+ 
+ Real Madrid vs Bayern de Munique
+
+ Paris Saint Germain vs Borussia Dortmund
+
+ [FOTO champions]
+
+ Premier League {h1}
+
+ O Manchester City lidera a Premier League, com uma vantagem significativa sobre os 
+ outros concorrentes. Eles estão buscando consolidar sua posição no topo e
+ conquistar mais um título da liga inglesa.{p}
+
+ [FOTO premier ]
+
+ Transferências e Rumores: {h1}
+
+[FOTO tranferêcias]
+ 
+ Kylian Mbappé: {p}
+ O futuro de Mbappé tem sido objeto de muita especulação.
+ Ele tem sido fortemente vinculado ao Real Madrid, com rumores 
+ sugerindo que o clube espanhol está preparando uma grande oferta para o
+ jogador do Paris Saint-Germain. {li}
+
+ [FOTO mbappe]
+
+ Lionel Messi:
+ Apesar de ter se mudado para o Paris Saint-Germain no ano passado, os rumores
+ sobre o futuro de Messi continuam a surgir. Alguns relatos sugerem que ele 
+ pode retornar ao Barcelona em algum momento, enquanto outros apontam para uma 
+ possível mudança para a Major League Soccer (MLS) nos Estados Unidos.{li}
+
+ [FOTO messi]
+
+ Site Criado por Kayan Melo
+
+ 
+
+
+
+
+
+
+
+
